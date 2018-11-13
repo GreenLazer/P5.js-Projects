@@ -1,0 +1,22 @@
+.left-eye{
+
+  transform: rotate(-20deg);
+  transform-origin: 250px 495px 0px;
+ 
+}
+
+
+
+.right-eye{
+
+  transform: rotate(-20deg);
+  transform-origin: 370px 490px 0px;
+ 
+}
+
+.right-eye-zero{
+
+  transform: rotate(0deg);
+  transform-origin: 370px 490px 0px;
+ 
+}
